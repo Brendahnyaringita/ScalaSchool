@@ -1,0 +1,61 @@
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/forargs.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mfor (arg <- args)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/forargs.scala:2:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    println(arg)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/hello.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintln("Hello, world, from a script")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/maps_sets.scala:3:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mvar jetSet = Set("Boeing", "Airbus") //define a new var[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/maps_sets.scala:8:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mjetSet += "Lear"    [0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/maps_sets.scala:9:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintln(jetSet)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/maps_sets.scala:18:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval cities = Map[String, String]()[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/maps_sets.scala:19:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    cities += ("Nairobi" -> "Kenya")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/maps_sets.scala:20:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    cities += ("Lagos" -> "Nigeria")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/maps_sets.scala:21:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    cities += ("Harare" -> "Zimbabwe")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/maps_sets.scala:23:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintln(cities("Lagos"))[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/maps_sets.scala:26:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mif (args.length > 0) {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/methods.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval greetStrings = new Array[String](3)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/methods.scala:2:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mgreetStrings.update(0, "Hello")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/methods.scala:3:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mgreetStrings.update(1, ",")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/methods.scala:4:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mgreetStrings.update(2, "Awesome")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/methods.scala:6:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mfor (i <- 0.to(2))[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/methods.scala:7:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    println(greetStrings.apply(i))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/printargs.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mvar i = 1[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/africastalking/Documents/AT_School/ScalaSchool/printargs.scala:2:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mwhile (i < args.length) {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m20 errors found[0m

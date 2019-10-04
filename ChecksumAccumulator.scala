@@ -6,7 +6,7 @@ class ChecksumAccumulator {
     def checksum(): Int = ~ (sum & 0xFF) + 1
 }
 
-//compnion if it has same name as class
+//companion if it has same name as class
 object ChecksumAccumulator {
     private val cache = Map[String, Int] ()
     def calculate(s: String): Int = 

@@ -1,0 +1,6 @@
+~run
+~run class.scala
+Rational (23,66)
+Rational (23,66);
+compile 
+compile class.scala
